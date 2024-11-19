@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\mattb\\documents\\github\\ddd-personalproj\\dddproj\\userdataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\userdataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\mattb\\documents\\github\\ddd-personalproj\\dddproj\\universalhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\universalhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\mattb\\documents\\github\\ddd-personalproj\\dddproj\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\mattb\\documents\\github\\ddd-personalproj\\dddproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDataClass.cs",
+              "DocumentMoniker": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\UserDataClass.cs",
+              "RelativeDocumentMoniker": "DDDProj\\UserDataClass.cs",
+              "ToolTip": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\UserDataClass.cs",
+              "RelativeToolTip": "DDDProj\\UserDataClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:38:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversalHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\UniversalHelpers.cs",
+              "RelativeDocumentMoniker": "DDDProj\\UniversalHelpers.cs",
+              "ToolTip": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\UniversalHelpers.cs",
+              "RelativeToolTip": "DDDProj\\UniversalHelpers.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:32:57.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\UserClass.cs",
+              "RelativeDocumentMoniker": "DDDProj\\UserClass.cs",
+              "ToolTip": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\UserClass.cs",
+              "RelativeToolTip": "DDDProj\\UserClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:29:16.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\Program.cs",
+              "RelativeDocumentMoniker": "DDDProj\\Program.cs",
+              "ToolTip": "C:\\Users\\mattb\\Documents\\GitHub\\DDD-PersonalProj\\DDDProj\\Program.cs",
+              "RelativeToolTip": "DDDProj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:25:12.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

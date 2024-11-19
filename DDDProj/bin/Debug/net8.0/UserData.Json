@@ -1,0 +1,15 @@
+{
+	"users": [
+		{
+			"name": "",
+			"age": "",
+			"role": "",
+			"meetings": [
+				{
+					"date": ""
+					"staff": ""
+					"completed": ""
+			]
+		}
+	]
+}
