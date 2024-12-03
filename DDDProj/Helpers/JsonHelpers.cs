@@ -1,11 +1,33 @@
-﻿using System.Text.Json;
+﻿using System.Security.Cryptography.X509Certificates;
+using System.Text.Json;
 using DDDProj.Users;
 
 namespace DDDProj.Helpers
 {
     public static class JsonHelpers
     {
-        public static void Serialise(User pUser)
+        public static void SerialiseStudent(Student pUser)
+        {
+            var options = new JsonSerializerOptions();
+            options.WriteIndented = true;
+
+            string jsonString = JsonSerializer.Serialize(pUser, options);
+            File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
+
+
+            //void SS(SeniorSupervisor pUser)
+            //{
+            //    string jsonString = JsonSerializer.Serialize(pUser, options);
+            //    File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
+            //}
+            //void Admin(Admin pUser)
+            //{
+            //    string jsonString = JsonSerializer.Serialize(pUser, options);
+            //    File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
+            //}
+        }
+
+        public static void SerialisePS(PersonalSupervisor pUser)
         {
             var options = new JsonSerializerOptions();
             options.WriteIndented = true;

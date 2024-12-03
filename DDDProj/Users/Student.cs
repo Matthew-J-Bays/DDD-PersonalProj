@@ -8,7 +8,7 @@ namespace DDDProj.Users
 {
     public class Student : User
     {
-        public string supervisor;
+        string supervisor;
         public Student(string name, string email, string password, string supervisor) : base(name, email, password, "Student")
         {
             this.supervisor = supervisor;

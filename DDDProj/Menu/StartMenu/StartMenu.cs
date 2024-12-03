@@ -25,7 +25,7 @@ namespace DDDProj.Menu.StartMenu
             else
             {
                 Console.WriteLine($"{manager.Name}");
-                menuItems.Add(new AddNewOrderMenu(manager));
+                //menuItems.Add(new (manager));
             }
             menuItems.Add(new ExitMenuItem(this));
         }
