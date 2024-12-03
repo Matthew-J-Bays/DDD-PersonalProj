@@ -26,7 +26,7 @@ namespace DDDProj.Menu.StartMenu
         {
             Console.Clear();
 
-            
+
             Console.WriteLine("Please enter your name:");
             string name = Console.ReadLine();
             Console.Clear();
@@ -54,7 +54,7 @@ namespace DDDProj.Menu.StartMenu
             {
                 Console.WriteLine("Please enter your supervisor's email address:");
                 sup = Console.ReadLine(); //+ ".json";
-                
+
                 foreach (string supervisor in supervisors)
                 {
                     if (sup == supervisor)
