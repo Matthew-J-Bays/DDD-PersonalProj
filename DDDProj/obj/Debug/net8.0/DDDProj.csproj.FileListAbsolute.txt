@@ -1,0 +1,15 @@
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\bin\Debug\net8.0\DDDProj.exe
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\bin\Debug\net8.0\DDDProj.deps.json
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\bin\Debug\net8.0\DDDProj.runtimeconfig.json
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\bin\Debug\net8.0\DDDProj.dll
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\bin\Debug\net8.0\DDDProj.pdb
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.AssemblyInfoInputs.cache
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.AssemblyInfo.cs
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.csproj.CoreCompileInputs.cache
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.sourcelink.json
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.dll
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\refint\DDDProj.dll
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.pdb
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\DDDProj.genruntimeconfig.cache
+C:\Users\mattb\source\repos\DDD-PersonalProj\02-12-24\DDDProj\obj\Debug\net8.0\ref\DDDProj.dll
