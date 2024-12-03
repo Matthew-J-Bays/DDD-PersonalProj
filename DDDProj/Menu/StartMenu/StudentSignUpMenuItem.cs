@@ -41,16 +41,27 @@ namespace DDDProj.Menu.StartMenu
 
             bool validSup = false;
             string[] supervisors = Directory.GetFiles("Users\\Personal Supervisors");
+            Console.WriteLine(supervisors[0]);
             string sup = "NotAssigned";
-            while (validSup = false)
+
+            for (int i = 0; i < supervisors.Length; i++)
+            {
+                string supTrimmed = Path.GetFileNameWithoutExtension(supervisors[i]);
+                supervisors[i] = supTrimmed;
+            }
+
+            while (validSup == false)
             {
                 Console.WriteLine("Please enter your supervisor's email address:");
-                sup = Console.ReadLine();
+                sup = Console.ReadLine(); //+ ".json";
+                
                 foreach (string supervisor in supervisors)
                 {
                     if (sup == supervisor)
                     {
                         validSup = true;
+                        Student student = new Student(name, email, pw, sup);
+                        JsonHelpers.SerialiseStudent(student);
                     }
                     else { continue; }
                 }
@@ -62,8 +73,8 @@ namespace DDDProj.Menu.StartMenu
             }
 
 
-            Student student = new Student(name, email, pw, sup);
-            JsonHelpers.SerialiseStudent(student);
+            //Student student = new Student(name, email, pw, sup);
+            //JsonHelpers.SerialiseStudent(student);
 
             parent.IsActive = false;
         }

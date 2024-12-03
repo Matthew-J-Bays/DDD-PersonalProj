@@ -13,7 +13,6 @@ namespace DDDProj.Users
         public string email { get; private set; }
         public string password { get; private set; }
         public string userType { get; private set; }
-        public string supervisor { get; private set; }
 
         // Did not use "p" in parameter names due to issues with Desirialization
         public User(string name, string email, string password, string userType)
@@ -23,14 +22,11 @@ namespace DDDProj.Users
             this.password = password;
             this.userType = userType;
         }
-        //public User(string name, string email, string password, string userType, string supervisor)
-        //{
-        //    this.name = name;
-        //    this.email = email;
-        //    this.password = password;
-        //    this.userType = userType;
-        //    this.supervisor = supervisor;
-        //}
+        public struct Meeting
+        {
+            public DateTime DateTime { get; private set; }
+            public string Location;
+        }
 
         public void Dump()
         {

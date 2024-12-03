@@ -3,52 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\users\\seniorsupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\seniorsupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\studentloginmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\studentloginmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\studentsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\studentsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\users\\personalsupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\personalsupervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\personalsupervisorsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\personalsupervisorsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\signupmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,6 +55,10 @@
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\exitmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\menu\\startmenu\\personalsupervisorsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\personalsupervisorsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\matt\\source\\repos\\ddd-personalproj\\3-12-24\\ddd-personalproj\\dddproj\\helpers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -78,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -86,9 +78,9 @@
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\Student.cs",
               "RelativeDocumentMoniker": "DDDProj\\Users\\Student.cs",
-              "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\Student.cs",
-              "RelativeToolTip": "DDDProj\\Users\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\Student.cs*",
+              "RelativeToolTip": "DDDProj\\Users\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T12:53:34.495Z",
               "IsPinned": true,
@@ -97,45 +89,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentLoginMenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StudentLoginMenuItem.cs",
-              "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\StudentLoginMenuItem.cs",
-              "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StudentLoginMenuItem.cs",
-              "RelativeToolTip": "DDDProj\\Menu\\StartMenu\\StudentLoginMenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:26:36.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SeniorSupervisor.cs",
-              "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\SeniorSupervisor.cs",
-              "RelativeDocumentMoniker": "DDDProj\\Users\\SeniorSupervisor.cs",
-              "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\SeniorSupervisor.cs",
-              "RelativeToolTip": "DDDProj\\Users\\SeniorSupervisor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T19:23:16.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "JsonHelpers.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Helpers\\JsonHelpers.cs",
               "RelativeDocumentMoniker": "DDDProj\\Helpers\\JsonHelpers.cs",
               "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Helpers\\JsonHelpers.cs",
               "RelativeToolTip": "DDDProj\\Helpers\\JsonHelpers.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T13:17:35.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\MenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\MenuItem.cs",
@@ -160,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "UniversalHelpers.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Helpers\\UniversalHelpers.cs",
               "RelativeDocumentMoniker": "DDDProj\\Helpers\\UniversalHelpers.cs",
@@ -173,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "ConsoleMenu.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\ConsoleMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\ConsoleMenu.cs",
@@ -186,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "ExitMenuItem.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\ExitMenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\ExitMenuItem.cs",
@@ -198,20 +164,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "PersonalSupervisorSignUpMenuItem.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\PersonalSupervisorSignUpMenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\PersonalSupervisorSignUpMenuItem.cs",
               "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\PersonalSupervisorSignUpMenuItem.cs",
               "RelativeToolTip": "DDDProj\\Menu\\StartMenu\\PersonalSupervisorSignUpMenuItem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T14:04:06.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T14:04:06.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Program.cs",
               "RelativeDocumentMoniker": "DDDProj\\Program.cs",
@@ -224,26 +189,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "StudentSignUpMenuItem.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StudentSignUpMenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\StudentSignUpMenuItem.cs",
               "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StudentSignUpMenuItem.cs",
               "RelativeToolTip": "DDDProj\\Menu\\StartMenu\\StudentSignUpMenuItem.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwD8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T12:43:17.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "PersonalSupervisor.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\PersonalSupervisor.cs",
               "RelativeDocumentMoniker": "DDDProj\\Users\\PersonalSupervisor.cs",
               "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\PersonalSupervisor.cs",
               "RelativeToolTip": "DDDProj\\Users\\PersonalSupervisor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T13:44:00.131Z",
               "EditorCaption": ""
@@ -256,27 +221,27 @@
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\LoginMenu.cs",
               "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\LoginMenu.cs",
               "RelativeToolTip": "DDDProj\\Menu\\StartMenu\\LoginMenu.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T15:23:27.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\User.cs",
               "RelativeDocumentMoniker": "DDDProj\\Users\\User.cs",
               "ToolTip": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Users\\User.cs",
               "RelativeToolTip": "DDDProj\\Users\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T13:15:51.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Helpers\\MenuManager.cs",
               "RelativeDocumentMoniker": "DDDProj\\Helpers\\MenuManager.cs",
@@ -288,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "StartMenu.cs",
               "DocumentMoniker": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StartMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\StartMenu.cs",

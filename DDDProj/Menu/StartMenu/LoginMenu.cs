@@ -18,7 +18,8 @@ namespace DDDProj.Menu.StartMenu
 
         public override void CreateMenu()
         {
-            throw new NotImplementedException();
+            menuItems.Clear();
+            
         }
 
         public override string MenuText()

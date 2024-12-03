@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mattb\\source\\repos\\DDD-PersonalProj\\02-12-24\\DDDProj\\DDDProj.csproj": {}
+    "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mattb\\source\\repos\\DDD-PersonalProj\\02-12-24\\DDDProj\\DDDProj.csproj": {
+    "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mattb\\source\\repos\\DDD-PersonalProj\\02-12-24\\DDDProj\\DDDProj.csproj",
+        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj",
         "projectName": "DDDProj",
-        "projectPath": "C:\\Users\\mattb\\source\\repos\\DDD-PersonalProj\\02-12-24\\DDDProj\\DDDProj.csproj",
-        "packagesPath": "C:\\Users\\mattb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mattb\\source\\repos\\DDD-PersonalProj\\02-12-24\\DDDProj\\obj\\",
+        "projectPath": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj",
+        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mattb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

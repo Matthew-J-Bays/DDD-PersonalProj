@@ -13,21 +13,18 @@ namespace DDDProj.Helpers
 
             string jsonString = JsonSerializer.Serialize(pUser, options);
             File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
-
-
-            //void SS(SeniorSupervisor pUser)
-            //{
-            //    string jsonString = JsonSerializer.Serialize(pUser, options);
-            //    File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
-            //}
-            //void Admin(Admin pUser)
-            //{
-            //    string jsonString = JsonSerializer.Serialize(pUser, options);
-            //    File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
-            //}
         }
 
         public static void SerialisePS(PersonalSupervisor pUser)
+        {
+            var options = new JsonSerializerOptions();
+            options.WriteIndented = true;
+
+            string jsonString = JsonSerializer.Serialize(pUser, options);
+            File.WriteAllText($"Users\\{pUser.userType}s\\{pUser.email}.json", jsonString);
+        }
+
+        public static void SerialiseSS(SeniorSupervisor pUser)
         {
             var options = new JsonSerializerOptions();
             options.WriteIndented = true;

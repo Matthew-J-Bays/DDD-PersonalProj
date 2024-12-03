@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DDDProj
+namespace DDDProj.Menu.StartMenu
 {
-    internal class UserDataClass
+    internal class StudentLoginMenuItem : MenuItem
     {
     }
 }
