@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace DDDProj.Menu.StudentMenus;
 
 // Used for login to the student menu.
-internal class StudentMenu : ConsoleMenu
+internal class StudentMenu : Menu.ConsoleMenu
 {
     MenuManager manager;
     Student loggedInStudent;
@@ -37,7 +37,7 @@ internal class StudentMenu : ConsoleMenu
         menuItems.Clear();
         Console.WriteLine($"Welcome {loggedInStudent.name}!\n");
         menuItems.Add(new StatusMenu(manager, loggedInStudent));
-        menuItems.Add(new StudentMeetingsMenu(manager, loggedInStudent));
+        menuItems.Add(new ConsoleMenu(manager, loggedInStudent));
         menuItems.Add(new ExitMenuItem(this));
     }
 

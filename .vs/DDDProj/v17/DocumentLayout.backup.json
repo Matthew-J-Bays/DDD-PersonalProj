@@ -3,44 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\studentarrangemeetingsmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\studentarrangemeetingsmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\studentmeetingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\studentmeetingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\helpers\\universalhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\universalhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\updatestatusmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\updatestatusmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\statusmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\statusmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\jsonhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\studentviewactivemeetingsmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\studentviewactivemeetingsmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\viewpriormeetingsmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\viewpriormeetingsmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\helpers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\studentmenus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\studentmenus\\studentmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\helpers\\universalhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\helpers\\universalhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\startmenu\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\startmenu\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\updatestatusmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|solutionrelative:dddproj\\menu\\updatestatusmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5917FF3C-AD1D-43F4-AE68-966773BDF4E3}|DDDProj\\DDDProj.csproj|c:\\users\\767233.adir.000\\source\\repos\\ddd-personalproj\\dddproj\\menu\\startmenu\\studentsignupmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,28 +90,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentArrangeMeetingsMenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
-              "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
-              "ToolTip": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
-              "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ViewPriorMeetingsMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\ViewPriorMeetingsMenuItem.cs",
+              "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\ViewPriorMeetingsMenuItem.cs",
+              "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\ViewPriorMeetingsMenuItem.cs",
+              "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\ViewPriorMeetingsMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:59:20.02Z",
+              "WhenOpened": "2024-12-04T18:01:09.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentMeetingsMenu.cs",
-              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentMeetingsMenu.cs",
-              "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\StudentMeetingsMenu.cs",
-              "ToolTip": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentMeetingsMenu.cs",
-              "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\StudentMeetingsMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "StudentViewActiveMeetingsMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentViewActiveMeetingsMenuItem.cs",
+              "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\StudentViewActiveMeetingsMenuItem.cs",
+              "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentViewActiveMeetingsMenuItem.cs",
+              "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\StudentViewActiveMeetingsMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T16:37:12.021Z",
+              "WhenOpened": "2024-12-04T17:54:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentArrangeMeetingsMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
+              "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
+              "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
+              "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\StudentArrangeMeetingsMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:59:20.02Z",
               "EditorCaption": ""
             },
             {
@@ -117,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "StatusMenu.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StatusMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StatusMenu.cs",
@@ -130,20 +155,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\ConsoleMenu.cs",
+              "ToolTip": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\ConsoleMenu.cs",
+              "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\ConsoleMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:37:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentMenu.cs",
-              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentMenu.cs",
+              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StudentMenus\\StudentMenu.cs",
-              "ToolTip": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentMenu.cs",
+              "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StudentMenus\\StudentMenu.cs",
               "RelativeToolTip": "DDDProj\\Menu\\StudentMenus\\StudentMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T19:26:36.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "LoginMenu.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\LoginMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\LoginMenu.cs",
@@ -156,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ConsoleMenu.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\ConsoleMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\ConsoleMenu.cs",
@@ -169,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "StartMenu.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StartMenu.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\StartMenu.cs",
@@ -182,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Program.cs",
               "RelativeDocumentMoniker": "DDDProj\\Program.cs",
@@ -195,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "PersonalSupervisorSignUpMenuItem.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\PersonalSupervisorSignUpMenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\PersonalSupervisorSignUpMenuItem.cs",
@@ -210,11 +248,24 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
+              "Title": "JsonHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Helpers\\JsonHelpers.cs",
+              "RelativeDocumentMoniker": "DDDProj\\Helpers\\JsonHelpers.cs",
+              "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Helpers\\JsonHelpers.cs",
+              "RelativeToolTip": "DDDProj\\Helpers\\JsonHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:04:21.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "StudentSignUpMenuItem.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\StartMenu\\StudentSignUpMenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\StartMenu\\StudentSignUpMenuItem.cs",
@@ -227,20 +278,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "UpdateStatusMenuItem.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\UpdateStatusMenuItem.cs",
               "RelativeDocumentMoniker": "DDDProj\\Menu\\UpdateStatusMenuItem.cs",
               "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Menu\\UpdateStatusMenuItem.cs",
               "RelativeToolTip": "DDDProj\\Menu\\UpdateStatusMenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T13:01:52.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "UniversalHelpers.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Helpers\\UniversalHelpers.cs",
               "RelativeDocumentMoniker": "DDDProj\\Helpers\\UniversalHelpers.cs",
@@ -253,26 +304,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Users\\Student.cs",
               "RelativeDocumentMoniker": "DDDProj\\Users\\Student.cs",
               "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Users\\Student.cs",
               "RelativeToolTip": "DDDProj\\Users\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T12:53:34.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Users\\User.cs",
               "RelativeDocumentMoniker": "DDDProj\\Users\\User.cs",
               "ToolTip": "C:\\Users\\767233.ADIR.000\\source\\repos\\DDD-PersonalProj\\DDDProj\\Users\\User.cs",
               "RelativeToolTip": "DDDProj\\Users\\User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T17:14:03.292Z",
               "EditorCaption": ""

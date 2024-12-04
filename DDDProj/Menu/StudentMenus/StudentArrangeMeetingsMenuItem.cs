@@ -9,9 +9,9 @@ internal class StudentArrangeMeetingsMenuItem : MenuItem
    
     private MenuManager manager;
     private Student student;
-    private ConsoleMenu parent;
+    private Menu.ConsoleMenu parent;
 
-    public StudentArrangeMeetingsMenuItem(ConsoleMenu pParent, MenuManager manager, Student student)
+    public StudentArrangeMeetingsMenuItem(Menu.ConsoleMenu pParent, MenuManager manager, Student student)
     {
         this.manager = manager;
         this.parent = pParent;
@@ -27,6 +27,7 @@ internal class StudentArrangeMeetingsMenuItem : MenuItem
     {
         Console.Clear();
         student.activeMeetings.Add(student.ArrangeMeeting());
+        JsonHelpers.SerialiseStudent(student);
         parent.IsActive = false;
     }
 }

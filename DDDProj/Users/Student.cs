@@ -15,6 +15,8 @@ namespace DDDProj.Users
         public Student(string name, string email, string password, string supervisor) : base(name, email, password, "Student")
         {
             this.supervisor = supervisor;
+            activeMeetings = new List<Meeting>();
+            formerMeetings = new List<Meeting>();
         }
     }
 }

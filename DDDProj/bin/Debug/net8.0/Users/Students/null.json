@@ -1,0 +1,15 @@
+{
+  "supervisor": "null",
+  "status": null,
+  "activeMeetings": [
+    {
+      "DateTime": "12",
+      "Location": "wjv"
+    }
+  ],
+  "formerMeetings": [],
+  "name": "null",
+  "email": "null",
+  "password": "null",
+  "userType": "Student"
+}

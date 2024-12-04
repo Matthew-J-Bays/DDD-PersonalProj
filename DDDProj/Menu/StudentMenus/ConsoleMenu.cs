@@ -4,12 +4,12 @@ using System;
 
 namespace DDDProj.Menu.StudentMenus;
 
-internal class StudentMeetingsMenu : ConsoleMenu
+internal class ConsoleMenu : Menu.ConsoleMenu
 {
     private MenuManager manager;
     private Student student;
 
-    public StudentMeetingsMenu(MenuManager manager, Student pStudent)
+    public ConsoleMenu(MenuManager manager, Student pStudent)
     {
         this.manager = manager;
         student = pStudent;
@@ -21,8 +21,8 @@ internal class StudentMeetingsMenu : ConsoleMenu
         menuItems.Clear();
 
         menuItems.Add(new StudentArrangeMeetingsMenuItem(this, manager, student));
-        // menuItems.Add(new ViewActiveMeetingsMenuItem(this, manager, student))
-        // menuItems.Add(new ViewPriorMeetingsMenuItem(this, manager, student))
+        menuItems.Add(new StudentViewActiveMeetingsMenuItem(this, manager, student));
+        menuItems.Add(new ViewPriorMeetingsMenuItem(this, manager, student));
     }
 
     public override string MenuText()

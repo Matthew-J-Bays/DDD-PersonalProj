@@ -26,6 +26,7 @@ namespace DDDProj.Menu
             Console.WriteLine("How are you getting on?\n");
             this.student.status = Console.ReadLine();
             Console.WriteLine("Status updated successfully");
+            JsonHelpers.SerialiseStudent(this.student);
             Thread.Sleep(1750);
             parent.IsActive = false;
         }

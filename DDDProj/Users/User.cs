@@ -32,11 +32,11 @@ namespace DDDProj.Users
         {
             Console.WriteLine("Please input the meeting date (Written as 'XX.XX.XXXX'):");
             string date = Console.ReadLine();
-            Console.WriteLine("\n Please input the meeting location:");
+            Console.WriteLine("\nPlease input the meeting location:");
             string location = Console.ReadLine();
 
 
-            Meeting meeting = new Meeting();
+            Meeting meeting = new();
             meeting.DateTime = date;
             meeting.Location = location;
             return meeting;
