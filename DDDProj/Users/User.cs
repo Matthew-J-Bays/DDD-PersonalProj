@@ -24,8 +24,22 @@ namespace DDDProj.Users
         }
         public struct Meeting
         {
-            public DateTime DateTime { get; private set; }
-            public string Location;
+            public string DateTime { get;  set; }
+            public string Location { get; set; }
+        }
+
+        public Meeting ArrangeMeeting()
+        {
+            Console.WriteLine("Please input the meeting date (Written as 'XX.XX.XXXX'):");
+            string date = Console.ReadLine();
+            Console.WriteLine("\n Please input the meeting location:");
+            string location = Console.ReadLine();
+
+
+            Meeting meeting = new Meeting();
+            meeting.DateTime = date;
+            meeting.Location = location;
+            return meeting;
         }
 
         public void Dump()

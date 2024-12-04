@@ -9,7 +9,9 @@ namespace DDDProj.Helpers
 
     public static class UniversalHelpers
     {
-
+        public static bool loggedOn { get; set; }
+        public static string loggedInUser {  get; set; }
+        
         public static int GetIntegerInRange(int pMin, int pMax, string pMessage)
         {
             if (pMin > pMax)

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj": {}
+    "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj": {
+    "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj",
+        "projectUniqueName": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj",
         "projectName": "DDDProj",
-        "projectPath": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj",
-        "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\source\\repos\\DDD-PersonalProj\\3-12-24\\DDD-PersonalProj\\DDDProj\\obj\\",
+        "projectPath": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\DDDProj.csproj",
+        "packagesPath": "C:\\Users\\767233.ADIR.000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\767233.ADIR.000\\Source\\Repos\\DDD-PersonalProj\\DDDProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\767233.ADIR.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +43,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

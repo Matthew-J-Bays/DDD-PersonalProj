@@ -9,6 +9,7 @@ namespace DDDProj.Helpers
     public class MenuManager
     {
         public string Name { get; private set; }
+        public bool LoggedOn { get; set; }
 
     }
 

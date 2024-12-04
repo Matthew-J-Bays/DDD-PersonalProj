@@ -10,8 +10,9 @@ namespace DDDProj.Menu.StartMenu
     public class StartMenu : ConsoleMenu
     {
         private MenuManager manager;
+
         
-        public StartMenu(MenuManager pManager) { manager = pManager; }
+        public StartMenu(MenuManager pManager) { manager = pManager; manager.LoggedOn = false; }
 
         public override void CreateMenu()
         {
