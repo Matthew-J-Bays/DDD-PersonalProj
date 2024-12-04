@@ -41,7 +41,6 @@ namespace DDDProj.Menu.StartMenu
 
             bool validSup = false;
             string[] supervisors = Directory.GetFiles("Users\\Personal Supervisors");
-            Console.WriteLine(supervisors[0]);
             string sup = "NotAssigned";
 
             for (int i = 0; i < supervisors.Length; i++)

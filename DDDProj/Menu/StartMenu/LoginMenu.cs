@@ -19,7 +19,7 @@ namespace DDDProj.Menu.StartMenu
         public override void CreateMenu()
         {
             menuItems.Clear();
-            menuItems.Add(StudentLogin)
+            menuItems.Add(new StudentMenu(manager));
         }
 
         public override string MenuText()
