@@ -1,0 +1,21 @@
+name: CI Tests
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: build .net environment
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-versions: '8.0.x'
+
+      - name: Install test
+        working-directory: /home/runner/work/
